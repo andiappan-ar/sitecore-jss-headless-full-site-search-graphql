@@ -2,4 +2,8 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+/src/.vs/Sitecore.Foundation.Index
+/src/Code/bin
 /.vs
+/src/Code/obj
+/src/packages
