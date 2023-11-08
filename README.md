@@ -1,4 +1,4 @@
-# sitecore-jss-headless-full-site-search-graphql non-edge
+# Sitecore FULL-TEXT SITE SEARCH WITH GRAPHQL (NON-EDGE)
 
 This extention helps you to implement full text site search using graphQL in sitecore.
 Complete article available here : https://andisitecore.wordpress.com/2023/11/08/full-text-site-search-with-graphql-non-edge/
